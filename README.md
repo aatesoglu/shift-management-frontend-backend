@@ -114,12 +114,6 @@ Not: `frontend/cypress/videos` ve `frontend/cypress/screenshots` repo dışında
 
 ---
 
-## Çevresel Değişkenler (Frontend)
-- `frontend/.env`
-  - `VITE_API_BASE_URL` (örn: `http://localhost:3000`)
-
----
-
 ## API Örnek Uçlar
 Rails `config/routes.rb`:
 - `GET /api/v1/departments`
