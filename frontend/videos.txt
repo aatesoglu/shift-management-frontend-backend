@@ -1,0 +1,6 @@
+file './cypress/videos/departments.cy.ts.mp4'
+file './cypress/videos/leaves.cy.ts.mp4'
+file './cypress/videos/schedule.cy.ts.mp4'
+file './cypress/videos/shifts.cy.ts.mp4'
+file './cypress/videos/smoke.cy.ts.mp4'
+file './cypress/videos/users.cy.ts.mp4'

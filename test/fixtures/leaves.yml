@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ate: MyString
+  reason: MyString
+  status: MyString
+
+two:
+  ate: MyString
+  reason: MyString
+  status: MyString
