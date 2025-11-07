@@ -1,6 +1,5 @@
 ## Shift Management (Rails API + React Frontend)
 
-<<<<<<< HEAD
 Modern vardiya/çalışan/izin/çizelge/departmanlar yönetimi için tam yığın proje.
 
 ### Teknolojiler
@@ -151,9 +150,6 @@ ffmpeg -f concat -safe 0 -i videos.txt -c copy ./cypress/videos/merged.mp4
 
 ---
 
-## Notlar
-- `.gitignore` büyük/üretilen klasörleri (node_modules, dist, .vite, Cypress videos/screenshots, `.env`) ignore eder.
-- İsteğe bağlı CI ayarları `.github` altında tutulabilir; repo politikanıza göre etkinleştirin.
 
 ---
 
