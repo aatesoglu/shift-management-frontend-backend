@@ -45,3 +45,6 @@
 
 # Frontend environment files
 /frontend/.env*
+
+# Ignore GitHub workflows and configs
+/.github/
